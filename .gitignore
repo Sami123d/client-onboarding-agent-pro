@@ -1,0 +1,21 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+client-onboarding/node_modules/
+
+# Environment Variables
+.env
+.env.local
+client-onboarding/.env
+client-onboarding/.env.local
+client-onboarding/.env.*
+
+# Build Output
+dist/
+client-onboarding/dist/
+
+# Logs
+*.log
