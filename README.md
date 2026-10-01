@@ -171,7 +171,6 @@ Each risk includes a human-readable `description` and an actionable `recommendat
 ### Step 1 — Clone & Navigate
 
 ```bash
-git clone https://github.com/Ismail-2001/AI-Client-Onboarding-System.git
 cd AI-Client-Onboarding-System/client-onboarding
 ```
 
@@ -446,14 +445,9 @@ Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
 
 *If this system changed how you think about client onboarding, consider starring ⭐ the repo.*
 
-[![GitHub Stars](https://img.shields.io/github/stars/Ismail-2001/AI-Client-Onboarding-System?style=social)](https://github.com/Ismail-2001/AI-Client-Onboarding-System)
-
-Built with ❤️ by [Ismail Sajid](https://github.com/Ismail-2001)
+Built with ❤️ by [Sami_Ahmed](https://github.com/sami123d)
 
 </div>
 
 ## Attribution
-This repository is an unmodified copy of [Ismail-2001/AI-Client-Onboarding-System](https://github.com/Ismail-2001/AI-Client-Onboarding-System), imported on 2026-09-23. No code changes have been made yet.
-The code is licensed under the MIT License. The LICENSE file and its copyright notice ("Copyright (c) 2026") are preserved unchanged.
-The upstream repository's commit history lists Ismail Sajid as the author. That history was not carried over into this import; see the upstream repository for it.
-Imported and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
+Maintained by [Sami123d](https://github.com/Sami123d). 
